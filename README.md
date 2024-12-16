@@ -1,1 +1,2 @@
-# vastz
+- I'm vastz, I'm a student from Shenzhen University.
+- I'm interested in CPU design and FPGA.
