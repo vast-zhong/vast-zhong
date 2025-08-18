@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning **IC designs, FPGA, Computer Architecture**
 
-![Commit Activity](https://github.com/vast-zhong/vast-zhong/blob/main/graphs/contributors)
+![CommitActivity](https://github.com/vast-zhong/vast-zhong/blob/main/graphs/contributors)
