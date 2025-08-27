@@ -3,7 +3,9 @@
 <h1 align="center">If I had more time, I would have written a shorter code.</h1>
 <h3>I'm an Electronics Engineer</h3>
 
-- 🔭 I’m currently learning **IC designs, FPGA, Computer Architecture, Rust and Python**
+- 🔭 I’m currently learning **IC designs, FPGA, Computer Architecture.**
+
+- 🦀 I’m currently learning Rust through some small project.
 
 <p align="center">
   <!--- stats (start) -->
